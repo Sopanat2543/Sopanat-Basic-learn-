@@ -1,6 +1,6 @@
 colors = ['red', 'green', 'blue', 'black', 'white', 'pink', 'yellow', 'brown', 'orange']
 
-# Get user inputs for each set
+# Get user inputs for each set 
 b1 = []
 while len(b1) < 1:
     print("Enter at least one color for b1.")
